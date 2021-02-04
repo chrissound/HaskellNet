@@ -13,4 +13,4 @@ let
     };
   };
 in
-myHaskellPackages.callCabal2nix "Haskellnet" (./.) {}
+myHaskellPackages.callCabal2nix "HaskellNet" (./.) {}
